@@ -1,0 +1,31 @@
+{
+    "name": "marmotte/marmotte",
+    "description": "Marmotte framework",
+    "type": "project",
+    "keywords": [
+        "marmotte",
+        "framework"
+    ],
+    "homepage": "https://github.com/Marmotte-framework/Marmotte",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kevin Traini",
+            "email": "kevin@ktraini.com"
+        }
+    ],
+    "funding": [
+        {
+            "type": "patreon",
+            "url": "https://www.patreon.com/gashmob"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\": "src/"
+        }
+    }
+}
