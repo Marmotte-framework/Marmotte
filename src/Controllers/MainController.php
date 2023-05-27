@@ -29,21 +29,15 @@ namespace Controllers;
 
 use Marmotte\Http\Response\ResponseFactory;
 use Marmotte\Http\Stream\StreamFactory;
+use Marmotte\Router\Controller\AbstractController;
 use Marmotte\Router\Router\Route;
 use Psr\Http\Message\ResponseInterface;
 
-final class MainController
+final class MainController extends AbstractController
 {
-    public function __construct(
-        private readonly ResponseFactory $response_factory,
-    ) {
-    }
-
     #[Route('/')]
     public function home(): ResponseInterface
     {
-        return $this->response_factory
-            ->createResponse()
-            ->withBody((new StreamFactory())->createStream('Hello World!'));
+        return $this->render('home.html.teng', []);
     }
 }
