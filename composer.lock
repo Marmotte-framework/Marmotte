@@ -415,16 +415,16 @@
         },
         {
             "name": "marmotte/brick",
-            "version": "v1.2.6",
+            "version": "v1.2.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Marmotte-framework/Brick.git",
-                "reference": "070638cd718cc2c6fe3a2687ce9fea89ba59feae"
+                "reference": "45754c9004bd07e87cff10733a9f286e6a6aaa2e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Marmotte-framework/Brick/zipball/070638cd718cc2c6fe3a2687ce9fea89ba59feae",
-                "reference": "070638cd718cc2c6fe3a2687ce9fea89ba59feae",
+                "url": "https://api.github.com/repos/Marmotte-framework/Brick/zipball/45754c9004bd07e87cff10733a9f286e6a6aaa2e",
+                "reference": "45754c9004bd07e87cff10733a9f286e6a6aaa2e",
                 "shasum": ""
             },
             "require": {
@@ -464,7 +464,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Marmotte-framework/Brick/issues",
-                "source": "https://github.com/Marmotte-framework/Brick/tree/v1.2.6"
+                "source": "https://github.com/Marmotte-framework/Brick/tree/v1.2.7"
             },
             "funding": [
                 {
@@ -472,20 +472,20 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2023-05-08T09:00:01+00:00"
+            "time": "2023-05-28T12:30:59+00:00"
         },
         {
             "name": "marmotte/core",
-            "version": "v1.0.1",
+            "version": "v1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Marmotte-framework/Core.git",
-                "reference": "5f51f0c97c91c409dec6a1838d33053276f04195"
+                "reference": "8fc45840e37f63ca3e80eaf774b9df03258f31e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Marmotte-framework/Core/zipball/5f51f0c97c91c409dec6a1838d33053276f04195",
-                "reference": "5f51f0c97c91c409dec6a1838d33053276f04195",
+                "url": "https://api.github.com/repos/Marmotte-framework/Core/zipball/8fc45840e37f63ca3e80eaf774b9df03258f31e7",
+                "reference": "8fc45840e37f63ca3e80eaf774b9df03258f31e7",
                 "shasum": ""
             },
             "require": {
@@ -526,7 +526,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Marmotte-framework/Core/issues",
-                "source": "https://github.com/Marmotte-framework/Core/tree/v1.0.1"
+                "source": "https://github.com/Marmotte-framework/Core/tree/v1.1.0"
             },
             "funding": [
                 {
@@ -534,7 +534,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2023-05-27T09:06:48+00:00"
+            "time": "2023-05-28T12:16:18+00:00"
         },
         {
             "name": "marmotte/http",
@@ -664,16 +664,16 @@
         },
         {
             "name": "marmotte/teng",
-            "version": "v1.1.2",
+            "version": "v1.1.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Marmotte-framework/Teng.git",
-                "reference": "84072e8a4b1b538a15d7a9078fd2d2b5bc36d3e3"
+                "reference": "0b4f110f959377dff8160ef4ebe231eefc6272e8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Marmotte-framework/Teng/zipball/84072e8a4b1b538a15d7a9078fd2d2b5bc36d3e3",
-                "reference": "84072e8a4b1b538a15d7a9078fd2d2b5bc36d3e3",
+                "url": "https://api.github.com/repos/Marmotte-framework/Teng/zipball/0b4f110f959377dff8160ef4ebe231eefc6272e8",
+                "reference": "0b4f110f959377dff8160ef4ebe231eefc6272e8",
                 "shasum": ""
             },
             "require": {
@@ -716,7 +716,7 @@
             ],
             "support": {
                 "issues": "https://github.com/Marmotte-framework/Teng/issues",
-                "source": "https://github.com/Marmotte-framework/Teng/tree/v1.1.2"
+                "source": "https://github.com/Marmotte-framework/Teng/tree/v1.1.3"
             },
             "funding": [
                 {
@@ -724,7 +724,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2023-05-27T09:32:25+00:00"
+            "time": "2023-05-28T12:05:48+00:00"
         },
         {
             "name": "nette/schema",

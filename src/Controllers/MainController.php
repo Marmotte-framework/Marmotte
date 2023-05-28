@@ -27,8 +27,6 @@ declare(strict_types=1);
 
 namespace Controllers;
 
-use Marmotte\Http\Response\ResponseFactory;
-use Marmotte\Http\Stream\StreamFactory;
 use Marmotte\Router\Controller\AbstractController;
 use Marmotte\Router\Router\Route;
 use Psr\Http\Message\ResponseInterface;
